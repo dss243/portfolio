@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import hijabGirl from "./assets/profile-placeholder.jpg";
+import hijabGirl from "./assets/girl.jpg";
 import mine from "./assets/mine.jpg";
 
 const projects = [
