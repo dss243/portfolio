@@ -1,0 +1,10 @@
+{
+  "description": "Showcases a professional portfolio highlighting AI and software engineering projects with a personalized, engaging landing page and clear navigation.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
